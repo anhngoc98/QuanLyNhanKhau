@@ -1,0 +1,77 @@
+.thumb {
+    opacity: 1;
+    float: left;
+    width: 45px;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: 5px;
+}
+
+.thumb .logo{
+    width: 100%;
+}
+.navbar-brand{
+    padding: 0 15px !important;
+}
+.page-name{
+    padding: 15px 0;
+    float: left;
+    display: block;
+}
+div#carousel-example-generic {
+    margin-top: 20px;
+}
+#menu{
+    font-size: 15px;
+}
+.menu{
+    padding: 0 !important;
+}
+.menu a{
+    display: block;
+    padding: 10px 10px;
+}
+.thongbao:hover{
+    background: #eaeae1;
+}
+.menu2 a{
+    display: block;
+    padding: 10px 15px;
+}
+.menu2{
+    padding: 0 !important;
+}
+
+.list-group-item:hover a{
+    background: #eaeae1;
+}
+.row-item {
+    padding: 0 40px !important;
+}
+.quanhe {
+    margin-left: 110px;
+}
+.quanhe .span1{
+    font-size: 17px;
+    text-transform: uppercase;
+}
+.quanhe .span2{
+    font-size: 18px;
+    font-weight: bold;
+}
+.info {
+    padding: 5px 0;
+    font-size: 16px;
+}
+span.info-value {
+    font-weight: bold;
+    margin-left: 10px;
+}
+.div1{
+    float: left;
+}
+.div2 {
+    float: left;
+    margin-left: 40px;
+}

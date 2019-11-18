@@ -1,0 +1,204 @@
+/* custem-huyphuc */
+.title .page{
+    font-size: 60%;
+}
+.header .title{
+    float: left;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.header .form-search{
+    float: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.pagination{
+    text-align: center;
+}
+input.form-control{
+    height: 40px !important;
+}
+select.form-control{
+    height: 40px !important;
+}
+.submit{
+    padding: 11px 20px !important;
+}
+.header header-top{
+    width: 100% !important;
+}
+.manipulation .add{
+    margin-left: 15px;
+    margin-top: 0 !important;
+    float: left;
+    margin-bottom: 0;
+}
+.fa-angle-double-right{
+    font-size: 24px;
+}
+.form-filter{
+    float: right;
+    width: 50%;
+}
+.form-filter .form-group{
+    float: left;
+    margin-bottom: 0;
+    padding-right: 0;
+}
+.form-filter .filter{
+    float: left;
+    padding-left: 0;
+    padding-right: 0;
+    width : 100%;
+}
+.form-filter .form-control{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height: 35px !important;
+}
+.form-filter .control-label{
+    float: left;
+    padding-top: 5px;
+    padding-right: 0;
+    padding-left: 10px;
+}
+.filter .submit{
+    padding: 9px 15px !important;
+    margin: 0;
+}
+.pagination{
+    float: right;
+}
+
+.btn-xs{
+    padding: 4px !important;
+}
+.see {
+    padding: 5px 10px !important;
+}
+.sidebar-wrapper .nav li:hover{
+    background: #ddd;
+}
+/* .sidebar-wrapper .nav li{
+    margin-right: 10px !important;
+} */
+
+.thumb {
+    opacity: 1;
+    float: left;
+    width: 45px;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: 5px;
+}
+
+.thumb .logo{
+    width: 100%;
+}
+.navbar-brand{
+    padding: 0 15px !important;
+}
+.page-name{
+    padding: 15px 0;
+    float: left;
+    display: block;
+}
+div#carousel-example-generic {
+    margin-top: 20px;
+}
+#menu{
+    font-size: 15px;
+}
+.menu{
+    padding: 0 !important;
+}
+.menu a{
+    display: block;
+    padding: 10px 15px;
+}
+.thongbao:hover{
+    background: #eaeae1;
+}
+.menu2 a{
+    display: block;
+    padding: 10px 15px;
+}
+.menu2{
+    padding: 0 !important;
+}
+
+.list-group-item:hover a{
+    background: #eaeae1;
+}
+.row-item {
+    padding: 0 20px !important;
+    margin: 20px 0 !important;
+}
+.quanhe {
+    margin-left: 110px;
+}
+.quanhe .span1{
+    font-size: 17px;
+    text-transform: uppercase;
+}
+.quanhe .span2{
+    font-size: 18px;
+    font-weight: bold;
+}
+.info {
+    padding: 5px 0;
+    font-size: 16px;
+    width: 100%;
+}
+span.info-value {
+    font-weight: bold;
+    margin-left: 10px;
+}
+.div1{
+    float: left;
+}
+.div2 {
+    float: left;
+    margin-left: 40px;
+}
+
+.col-xs-5{
+    width: 41.66666667%;
+    float: left;    
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.col-xs-7 {
+    width: 58.33333333%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.card .icon-big {
+    font-size: 3.5em;
+    min-height: 64px;
+    padding-top: 5px;
+}
+.card .numbers {
+    font-size: 2em;
+    text-align: right;
+}
+.card .numbers p{
+    font-size: 16px;
+    line-height: 1.4em;
+    margin:0;
+}
+hr{
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.footer{
+    padding: 0;
+    line-height: 30px;
+}
