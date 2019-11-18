@@ -112,10 +112,11 @@ span.info-value {
 
 .footer .panel .contact .list-contact {
     list-style: none;
+    font-size: 14px;
 }
 
 .footer .panel .contact .list-contact >li {
-    padding: 8px 0;
+    padding: 4px 0;
     font-weight: normal;
 }
 .name{
