@@ -32,7 +32,7 @@
             <img src="dashboard/img/logo-small.png">
           </div>
         </a>
-        <a href="" class="simple-text logo-normal">
+        <span class="simple-text logo-normal">
           @can('ql-xaphuong')
             Cấp Xã Phường
           @endcan
@@ -45,7 +45,7 @@
           <!-- <div class="logo-image-big">
             <img src="dashboard/img/logo-big.png">
           </div> -->
-        </a>
+        </span>
       </div>
       <div class="sidebar-wrapper">
         <ul class="nav">
@@ -64,7 +64,7 @@
             </li>
             <li>
               <a href="admin/thongke">
-                <i class="nc-icon nc-bell-55"></i>
+                <i class="fa fa-calendar"></i>
                 <p>Thống kê</p>
               </a>
             </li>
@@ -160,6 +160,44 @@
       <!-- End Navbar -->
         @yield('content')
 
+        <footer class="footer">
+          <div class="container-fluid">
+              <div class="clearfix">
+                  <div class="panel column3">
+                      <h5 style="font-size: 15px;font-weight: bold" class="title">
+                          <span>Liên hệ</span>
+                      </h5>
+                      <div class="contact">
+                          <ul class="list-contact">
+                              <li>
+                                  <span><i class="fa fa-phone"></i>  Điện thoại: </span>
+                                  <span style="font-weight:bold">0967383831</span>
+                              </li >
+                              <li>
+                                  <span><i class="fa fa-envelope"></i> Email: </span>
+                                  <span style="font-weight:bold">phucktpm1@gmail.com</span>
+                              </li>
+                              <li>
+                                  <span><i class="fa fa-globe"></i> Website: </span>
+                                  <a href="" title="Website">https://nhankhau.com</a>
+                              </li>						
+                          </ul>
+                      </div>
+                  </div>
+                  <div class="copyright pull-right">
+                      <div class="group">
+                          &copy; <script>document.write(new Date().getFullYear())</script>, Thực hiện  bởi Nhóm 24 <i style="color:red" class="fa fa-heart heart"></i>
+                      </div>
+                      <div class="clearfix name">
+                          <span>Nguyễn Huy Phúc</span>
+                          <span>Trần Thị Ánh Ngọc</span>
+                          <span>Hồ Ngọc Duẩn</span>
+                      </div>
+                  </div>
+              </div>
+              
+          </div>
+        </footer>
       
     </div>
   </div>

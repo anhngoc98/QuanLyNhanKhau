@@ -198,7 +198,71 @@ hr{
     margin-top: 8px;
     margin-bottom: 8px;
 }
+
 .footer{
-    padding: 0;
-    line-height: 30px;
+    background: #fff;
+    padding: 20px 0 10px 0;
+}
+.footer .panel {
+    float: left;
+    background: #fff !important;
+    border: none !important;
+    margin-bottom: 0;
+}
+.copyright{
+    margin-right: 50px;
+}
+
+.column3 {
+    width: 368px;
+    padding-left: 20px;
+}
+
+.footer .panel .title {
+    color: #000;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    margin-top: 0 !important;
+    padding-left: 30px;
+}
+
+.footer .panel .contact {
+    color: #000;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.footer .panel .contact .list-contact {
+    list-style: none;
+    font-size: 14px;
+    padding-left: 40px;
+}
+
+.footer .panel .contact .list-contact >li {
+    padding: 2px 0;
+    font-weight: normal;
+}
+.name{
+    width: 240px;
+    padding-left: 115px;
+    font-weight: bold;
+    font-size: 14px;
+    color: #000;
+}
+.group
+{
+    font-weight: bold;
+    font-size: 15px;
+    color: #000;
+}
+.name span{
+    float: left;
+}
+.contact ul li a
+{
+    color:#000;
+    font-weight:bold;
+    text-transform: none;
+    font-size: 14px;
 }

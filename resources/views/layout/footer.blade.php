@@ -8,15 +8,15 @@
                 <div class="contact">
                     <ul class="list-contact">
                         <li>
-                            <span>- Điện thoại: </span>
+                            <span><i class="fa fa-phone"></i>  Điện thoại: </span>
                             <span style="font-weight:bold">0967383831</span>
                         </li >
                         <li>
-                            <span>- Email: </span>
+                            <span><i class="fa fa-envelope"></i> Email: </span>
                             <span style="font-weight:bold">phucktpm1@gmail.com</span>
                         </li>
                         <li>
-                            <span>- Website: </span>
+                            <span><i class="fa fa-globe"></i> Website: </span>
                             <a href="" style="color:#fff;font-weight:bold" title="Website">https://nhankhau.com</a>
                         </li>						
                     </ul>
@@ -24,7 +24,7 @@
             </div>
             <div class="copyright pull-right">
                 <div class="group">
-                    &copy; <script>document.write(new Date().getFullYear())</script>, Made with <i style="color:red" class="fa fa-heart heart"></i> by Group 24
+                    &copy; <script>document.write(new Date().getFullYear())</script>, Thực hiện  bởi Nhóm 24 <i style="color:red" class="fa fa-heart heart"></i>
                 </div>
                 <div class="clearfix name">
                     <span>Nguyễn Huy Phúc</span>

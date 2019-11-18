@@ -30,7 +30,7 @@
                     @endif
                     <div class="form-group clearfix">
                         <div class="col-sm-6 clearfix" style="float:left; padding-right:0;">
-                            <label for="inputEmail3" class="col-sm-4 control-label">Quah hệ</label>
+                            <label for="inputEmail3" class="col-sm-4 control-label">Quan hệ</label>
                             <div class="col-sm-8" style="float:left">
                                 <select class="form-control" name="QuanHe">
                                     <option value="">-- Chọn quan hệ với chủ hộ --</option>
