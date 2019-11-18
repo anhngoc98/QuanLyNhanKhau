@@ -75,3 +75,63 @@ span.info-value {
     float: left;
     margin-left: 40px;
 }
+
+.footer{
+    background: #222;
+    padding: 20px 0 0 0;
+}
+.footer .panel {
+    float: left;
+    background: #222 !important;
+    border: none !important;
+    margin-bottom: 0;
+}
+.copyright{
+    margin-right: 50px;
+}
+
+.column3 {
+    width: 368px;
+    padding-left: 20px;
+}
+
+.footer .panel .title {
+    color: #fff;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    margin-top: 0 !important;
+    padding-left: 30px;
+}
+
+.footer .panel .contact {
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.footer .panel .contact .list-contact {
+    list-style: none;
+}
+
+.footer .panel .contact .list-contact >li {
+    padding: 8px 0;
+    font-weight: normal;
+}
+.name{
+    width: 240px;
+    padding-left: 115px;
+    font-weight: bold;
+    font-size: 14px;
+    color: #fff;
+}
+.group
+{
+    font-weight: bold;
+    font-size: 15px;
+    color: #fff;
+}
+.name span{
+    float: left;
+    padding: 5px 0;
+}

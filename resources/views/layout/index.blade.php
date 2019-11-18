@@ -22,6 +22,7 @@
         
         @yield('content')
         
+        @include('layout.footer')
         <!-- jQuery -->
         <script src="frontend/js/jquery.js"></script>
         <!-- Bootstrap Core JavaScript -->
